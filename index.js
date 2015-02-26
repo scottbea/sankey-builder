@@ -120,6 +120,7 @@ exports.compileTsvToSankeyJson = function(filename, outputFilename) {
 	buffer = JSON.stringify(ds);
 
 	if (_.isString(outputFilename)) { fs.writeFileSync(outputFilename, buffer); }
+	else { fs.writeFileSync("data.json", buffer); }
 
 	return buffer;
 };

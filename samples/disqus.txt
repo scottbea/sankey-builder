@@ -1,0 +1,36 @@
+poster	david@thingbag.net	1925
+david@thingbag.net	article	1561
+david@thingbag.net	book-page	6
+david@thingbag.net	case-study	118
+david@thingbag.net	fred	1
+david@thingbag.net	frequently-asked-question	9
+david@thingbag.net	getting-started	1
+david@thingbag.net	podcast	2
+david@thingbag.net	product-faq	3
+david@thingbag.net	product-page	1
+david@thingbag.net	video	136
+david@thingbag.net	webinar-event	15
+david@thingbag.net	whitepaper	72
+poster	scott	500
+scott	d3	250
+scott	c#	125
+scott	machine learning	75
+scott	elasticsearch	50
+poster	rose	518
+rose	about-regions	1
+rose	article	362
+rose	book-page	3
+rose	can-i-buy-extra-ips	1
+rose	case-study	53
+rose	cloud files	2
+rose	cloud images	1
+rose	cloud servers	20
+rose	faq	8
+rose	getting_started	1
+rose	legal	1
+rose	typography	2
+rose	video	35
+rose	webinar-event	2
+rose	white-paper	1
+rose	whitepaper	18
+rose	y2014	6
