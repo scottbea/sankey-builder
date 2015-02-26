@@ -1,0 +1,25 @@
+Paciolan	Ticketing	208394
+Paciolan	Rejected	90103
+PacMail	Ticketing	172729
+PacMail	Rejected	15
+Fanatics	Merchandise	8545
+Fanatics	Rejected	1
+Rapleaf	Demographics	126116
+Rapleaf	Not Found	45587
+FullContact	Social	80071
+FullContact	Not Found	214999
+Bing GeoLocation	Geographic	275912
+Bing GeoLocation	Not Found	266
+Demographics	Profile Updates	*
+Demographics	Profiles	11113
+Ticketing	Profiles	280144
+Ticketing	Skipped	25
+Ticketing	Profile Updates	*
+Merchandise	Profiles	3674
+Merchandise	Profile Updates	*
+Social	Profile Updates	80071
+Geographic	Profile Updates	275912
+Ticketing	Seasons	200
+Ticketing	Events	1990
+Not Found	Skipped	1
+Rejected	Skipped	*

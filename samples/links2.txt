@@ -1,0 +1,25 @@
+Enriched	Profiles	233000
+Enriched	Seasons	200
+Enriched	Events	1990
+Not Enriched	Profiles	75500
+Not Enriched	Seasons	15
+Not Enriched	Events	120
+Demographics	Enriched	45000
+GeoLocation	Enriched	175000
+SocialLinks	Enriched	180000
+Paciolan	Ticketing	175000
+Paciolan	Rejected	18000
+PacMail	Ticketing	120000
+PacMail	Rejected	24000
+Fanatics	Merchandise	8500
+Fanatics	Rejected	15
+Ticketing	Enriched	225000
+Ticketing	Not Enriched	*
+Merchandise	Enriched	8000
+Merchandise	Not Enriched	*
+:	Ticketing	120000
+PacMail	Rejected	24000
+PacMail	Ticketing	120000
+PacMail	Rejected	24000
+PacMail	Ticketing	120000
+PacMail	Rejected	24000

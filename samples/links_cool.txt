@@ -1,0 +1,37 @@
+Paciolan	Ticketing	175000
+Paciolan	Rejected	18000
+PacMail	Ticketing	120000
+PacMail	Rejected	24000
+Fanatics	Merchandise	8500
+Fanatics	Rejected	15
+Rapleaf	Demographics	45000
+Rapleaf	Not Found	25000
+Rapleaf	Rejected	2
+Demographics	Existing	45000
+FullContact	Social	120000
+FullContact	Not Found	30000
+FullContact	Rejected	8
+Bing GeoLocation	Geographic	175000
+Bing GeoLocation	Not Found	24600
+Bing GeoLocation	Rejected	400
+Student List	Custom Lists	20000
+Student List	Rejected	400
+ICA	Custom Lists	3200
+ICA	Social	3200
+UserEdits	Existing	3200
+Ticketing	New	225000
+Ticketing	Existing	*
+Merchandise	New	3100
+Merchandise	Existing	*
+Social	New	32000
+Social	Existing	*
+Geographic	Existing	175000
+Custom Lists	New	13000
+Custom Lists	Existing	10000
+Ticketing	Seasons	200
+Ticketing	Events	1990
+New	Profiles	233000
+Existing	Profiles	1
+Skipped	Profiles	1
+Rejected	Skipped	*
+Not Found	Skipped	*

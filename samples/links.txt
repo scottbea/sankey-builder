@@ -1,0 +1,45 @@
+Paciolan	Ticketing	208394
+Paciolan	Rejected	39440
+Paciolan	Social Graph Providers	208394
+Paciolan	Demographics Providers	208394
+Paciolan	Geo Providers	208394
+TicketMaster	Ticketing	150000
+TicketMaster	Rejected	17500
+TickerMaster	Social Graph Providers	140000
+TicketMaster	Demographics Providers	120000
+TicketMaster	Geo Providers	120000
+PacMail	Ticketing	172729
+PacMail	Rejected	15
+PacMail	Social Graph Providers	179729
+PacMail	Demographics Providers	172729
+PacMail	Geo Providers	179729
+Fanatics	Merchandise	8545
+Fanatics	Rejected	1
+Fanatics	Demographics Providers	8545
+Fanatics	Social Graph Providers	8545
+Fanatics	Geo Providers	8545
+Demographics Providers	Demographics	126116
+Demographics Providers	Not Found	45587
+Student List	Lists	40000
+Alumni Donor List	Lists	8000
+Track and Field Fans	Lists	2000
+User Edits	FanDex	2000
+Lists	FanDex	46000
+Social Graph Providers	Social	80071
+Social Graph Providers	Not Found	214999
+Geo Providers	Geographic	275912
+Geo Providers	Not Found	266
+Geographic	LocationManager	275912
+Demographics	FanDex	126116
+Ticketing	FanDex	280144
+Ticketing	Skipped	25
+Merchandise	FanDex	3674
+Social	FanDex	80071
+Geographic	FanDex	275912
+FanDex	Seasons	200
+FanDex	Events	1990
+LocationManager	Locations	275912
+Rejected	Skipped	*
+FanDex	Profiles	294931
+Skipped	FanDex	1
+Not Found	FanDex	1

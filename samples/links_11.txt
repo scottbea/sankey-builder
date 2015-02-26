@@ -1,0 +1,37 @@
+Paciolan	Ticketing	208394
+Paciolan	Skipped	39440
+PacMail	Ticketing	172729
+PacMail	Rejected	15
+Fanatics	Merchandise	8545
+Fanatics	Rejected	1
+Fanatics	Rapleaf	8545
+Fanatics	FullContact	8545
+Fanatics	Bing GeoLocation	8545
+Rapleaf	Demographics	126116
+Rapleaf	Not Found	45587
+Paciolan	FullContact	208394
+Paciolan	Rapleaf	208394
+Paciolan	Bing GeoLocation	208394
+PacMail	FullContact	179729
+PacMail	Rapleaf	172729
+PacMail	Bing GeoLocation	179729
+Student List	Lists	40000
+Alumni Donor List	Lists	8000
+Track and Field Fans	Lists	2000
+User Edits	FanDex	2000
+Lists	FanDex	46000
+FullContact	Social	80071
+FullContact	Not Found	214999
+Bing GeoLocation	Geographic	275912
+Bing GeoLocation	Not Found	266
+Demographics	FanDex	126116
+Ticketing	FanDex	280144
+Ticketing	Skipped	25
+Merchandise	FanDex	3674
+Social	FanDex	80071
+Geographic	FanDex	275912
+Ticketing	Seasons	200
+Ticketing	Events	1990
+Not Found	Skipped	1
+Rejected	Skipped	*
+FanDex	Profiles	294931

@@ -1,0 +1,24 @@
+{
+  "name": "sankey-panky",
+  "version": "0.1.0",
+  "description": "Down and dirty with D3-based Sankey charts with simple data files",
+  "author": "Scott Beaudreau <sjbeaudreau@gmail.com>",
+  "bin": {
+    "sankey-panky": "./bin/sankey-panky.js"
+  },
+  "scripts": {
+  },
+  "main": "index.js",
+  "keywords": [
+    "d3",
+    "sankey",
+    "charts",
+    "visualization",
+    "flatfile"
+  ],
+  "dependencies": {
+    "pretty-data": "~0.40.0",
+    "underscore": "~1.7.0",
+    "http-server": "*"
+  }
+}

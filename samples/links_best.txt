@@ -1,0 +1,30 @@
+Paciolan	Ticketing	208394
+Paciolan	Skipped	90103
+PacMail	Ticketing	71775
+PacMail	Skipped	100969
+Fanatics	Merchandise	3674
+Fanatics	Skipped	4871
+Rapleaf	Demographics	126116
+Rapleaf	Not Found	45587	
+Demographics	Profile Updates	45000
+FullContact	Social	80071
+FullContact	Not Found	214999
+Bing GeoLocation	Geographic	275912
+Bing GeoLocation	Not Found	266
+Student List	Custom Lists	0
+Student List	Skipped	1
+ICA	Custom Lists	0
+ICA	Social	1
+UserEdits	Profile Updates	0
+Ticketing	Profiles	225000
+Ticketing	Profile Updates	*
+Merchandise	Profiles	3100
+Merchandise	Profile Updates	*
+Social	Profiles	32000
+Social	Profile Updates	*
+Geographic	Profile Updates	175000
+Custom Lists	Profiles	13000
+Custom Lists	Profile Updates	10000
+Ticketing	Seasons	200
+Ticketing	Events	1990
+Not Found	Skipped	1
