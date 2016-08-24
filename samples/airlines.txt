@@ -1,0 +1,143 @@
+TX	Out of State	4824466
+Out of State	American Airlines	1571945
+TX	In State	1220798
+Out of State	Southwest Airlines	1084399
+Out of State	United Air Lines	704753
+American Airlines	Other	630618
+In State	Southwest Airlines	463353
+Southwest Airlines	Other	353177
+American Airlines	CA	282915
+In State	American Airlines	277554
+Out of State	Delta Air Lines	233022
+Out of State	Mesa Airlines	229684
+American Airlines	FL	199878
+Delta Air Lines	GA	176929
+United Air Lines	Other	173061
+Out of State	Spirit Air Lines	170068
+Out of State	ExpressJet Airlines	169207
+United Air Lines	CA	167907
+Mesa Airlines	Other	156381
+Southwest Airlines	CA	151377
+In State	Mesa Airlines	151222
+Out of State	Envoy Air	148310
+Out of State	SkyWest Airlines	135672
+In State	ExpressJet Airlines	116301
+Southwest Airlines	FL	116022
+Out of State	Other Airlines	115472
+ExpressJet Airlines	Other	102599
+Envoy Air	Other	97679
+In State	United Air Lines	88437
+American Airlines	AZ	87825
+United Air Lines	FL	85332
+In State	Envoy Air	78435
+Southwest Airlines	NV	78271
+American Airlines	IL	77739
+Southwest Airlines	IL	75294
+SkyWest Airlines	Other	74355
+Southwest Airlines	AZ	72025
+Southwest Airlines	CO	71807
+United Air Lines	IL	70592
+American Airlines	VA	69183
+American Airlines	NY	61888
+United Air Lines	CO	60140
+Other Airlines	Other	58474
+American Airlines	NV	55551
+Southwest Airlines	LA	54998
+Out of State	Frontier Airlines	53523
+Out of State	Virgin America	50864
+American Airlines	CO	49209
+Southwest Airlines	GA	48510
+Delta Air Lines	Other	46218
+Out of State	Compass Airlines	45439
+Out of State	JetBlue Airways	40367
+Out of State	Alaska Airlines	40176
+Alaska Airlines	Other	40176
+Spirit Air Lines	Other	37915
+ExpressJet Airlines	LA	37660
+United Air Lines	VA	35651
+Southwest Airlines	VA	34339
+Spirit Air Lines	FL	32555
+American Airlines	GA	32325
+Spirit Air Lines	CA	31838
+Out of State	Republic Airlines	31565
+Compass Airlines	CA	30285
+United Air Lines	NY	28684
+Southwest Airlines	NY	28579
+United Air Lines	NV	27786
+Mesa Airlines	AZ	27200
+Virgin America	CA	26316
+United Air Lines	LA	26021
+American Airlines	LA	24814
+Republic Airlines	Other	24597
+Frontier Airlines	CO	24386
+In State	SkyWest Airlines	21377
+Envoy Air	IL	21304
+SkyWest Airlines	CO	20858
+Mesa Airlines	VA	20538
+Other Airlines	NY	18740
+United Air Lines	AZ	18533
+Spirit Air Lines	NV	18245
+SkyWest Airlines	CA	18183
+Spirit Air Lines	IL	17865
+JetBlue Airways	Other	15982
+Compass Airlines	Other	15154
+ExpressJet Airlines	FL	14891
+In State	Other Airlines	14607
+Other Airlines	CO	12311
+JetBlue Airways	NY	12268
+Virgin America	NY	11571
+Other Airlines	NV	11379
+Envoy Air	FL	11347
+United Air Lines	GA	11046
+Envoy Air	LA	10620
+Delta Air Lines	NY	9818
+In State	Republic Airlines	9320
+Spirit Air Lines	CO	9312
+Mesa Airlines	FL	9189
+Frontier Airlines	Other	9140
+SkyWest Airlines	IL	9015
+Spirit Air Lines	GA	8795
+JetBlue Airways	FL	8124
+Frontier Airlines	NV	7412
+Virgin America	VA	7337
+ExpressJet Airlines	GA	7104
+Spirit Air Lines	LA	6230
+Republic Airlines	IL	5912
+Frontier Airlines	GA	5758
+Virgin America	NV	5359
+Mesa Airlines	GA	5323
+Other Airlines	FL	5174
+Other Airlines	IL	4519
+SkyWest Airlines	FL	4168
+Frontier Airlines	CA	4085
+Mesa Airlines	CO	4066
+JetBlue Airways	CA	3993
+Mesa Airlines	LA	3958
+Spirit Air Lines	NY	3871
+SkyWest Airlines	AZ	3731
+Envoy Air	GA	3680
+Envoy Air	CO	3616
+ExpressJet Airlines	CO	3495
+Spirit Air Lines	AZ	3442
+SkyWest Airlines	GA	3075
+Frontier Airlines	IL	2742
+Mesa Airlines	CA	2302
+ExpressJet Airlines	IL	2054
+Other Airlines	AZ	1898
+SkyWest Airlines	VA	1698
+Other Airlines	LA	1570
+ExpressJet Airlines	VA	1329
+Other Airlines	CA	1315
+Republic Airlines	LA	854
+Mesa Airlines	NY	727
+SkyWest Airlines	LA	589
+Virgin America	Other	281
+Republic Airlines	FL	202
+In State	Delta Air Lines	110
+In State	Alaska Airlines	82
+ExpressJet Airlines	AZ	75
+Delta Air Lines	IL	57
+Other Airlines	VA	54
+Envoy Air	VA	48
+Other Airlines	GA	38
+Envoy Air	CA	16
