@@ -22,7 +22,7 @@
   pointer-events: none;
   text-shadow: 0 0px 0 #fff;
   font-family: calibri, sans-serif;
-  font-size:50%;
+  font-size:65%;
 }
 
 .link {
@@ -40,39 +40,14 @@
 
 
 
-/*
-.node rect {
-    cursor: move;
-    fill-opacity: .9;
-    shape-rendering: crispEdges
-}
-.node text {
-    pointer-events: none;
-    text-shadow: 0 1px 0 #fff
-}
-.link {
-    stroke: #000;
-    stroke-opacity: .3;
-}
-.link:hover {
-    stroke-opacity: .5;
-    fill: rgb(255, 127, 14);
-    opacity: 0.3;
-}
-*/
-
-
-
-
 
 </style>
-<body style="background-color:#eee;">
-<h1>Overlapping Links at Sources</h1>
-<div style="width:100%;position:absolute;background-color:transparent;margin:auto;top:100;left:0;right:0;bottom:100;align:center;text-align:center;">
+<body style="background-color: #f4f2ff;">
+<div style="width:100%;position:absolute;margin:auto;top:100;left:0;right:0;bottom:100;align:center;text-align:center;">
 
 <div style="padding:1% 1% 1% 1%;">
-	<div style="width:90%;border:1px solid #ddd;background-color:#fff;margin:0 auto;padding:3% 2% 3% 2%;">
-		<p id="chart3">
+	<div style="width:95%;border:1px solid #ddd;background-color:#fff;margin:0 auto;padding:3% 2% 3% 2%;">
+		<p id="chart">
 	</div>
 </div>
 </div>
@@ -89,16 +64,6 @@ var formatNumber = d3.format(",.0f"),
     color = d3.scale.category20();
 
 function addSankey(overlapSources,overlapTargets,parent) {
-/*
-  var svg = d3.select("#"+parent).append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-*/
-
-
-
   var svg = d3.select("#"+parent).append("svg")
       .attr("width", "100%")
       .attr("height","100%")
@@ -171,10 +136,7 @@ function addSankey(overlapSources,overlapTargets,parent) {
   });
 }
   
-addSankey(false,false,"chart3");
-//addSankey(false,true,"chart3");
-//addSankey(true,false,"chart3");
-//addSankey(true,true,"chart3");
+addSankey(false,false,"chart");
 
 </script>
 </html>
